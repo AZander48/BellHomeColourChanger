@@ -1,0 +1,10 @@
+{
+    "name": "BellHomeColourChanger",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/AZander48/BellHomeColourChanger.git",
+    "description": "The mod allows you to change the colour of the Bellhome House.",
+    "dependencies": [
+        "BepInEx-BepInExPack_Silksong-5.4.2303"
+    ]
+}
+   

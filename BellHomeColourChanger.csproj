@@ -21,7 +21,7 @@
     <!--These properties will control the generated PluginInfo. Version is also used by various parts of the build system.-->
     <BepInExPluginGuid>BellHomeColourChanger</BepInExPluginGuid>
     <BepInExPluginName>BellHomeColourChanger</BepInExPluginName>
-    <Version>0.1.0</Version>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>

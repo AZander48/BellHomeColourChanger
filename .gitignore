@@ -484,3 +484,6 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+# Exclude zip files for thunderstore
+*.zip
